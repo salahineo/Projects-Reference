@@ -43,7 +43,7 @@ Tasks of specific design or functionality [updated]
 
 | # | Repository | Description | Demo | Category |
 | --- | --- | --- | --- | --- |
-| 1 | [Posts](https://github.com/salahineo/Posts) | Make dynamic navigation menu | [Demo](https://salahineo.github.io/Posts/) | Front-End |
+| 1 | [Dynamic Nav](https://github.com/salahineo/Dynamic-Navigation-Menu) | Make dynamic navigation menu | [Demo](https://salahineo.github.io/Dynamic-Navigation-Menu/) | Front-End |
 
 > These tasks are not projects, so it could be not completed in design or functionality
 
