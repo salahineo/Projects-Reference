@@ -34,6 +34,7 @@ My projects ordered from oldest to newest [updated]
 | 3 | [Hostgate](https://github.com/salahineo/Hostgate) | Hosting Website Landing Page | [Demo](https://salahineo.github.io/Hostgate/) | Front-End |
 | 4 | [DevPoint](https://github.com/salahineo/DevPoint) | Development Company Website Landing Page | [Demo](https://salahineo.github.io/DevPoint/) | Front-End |
 | 5 | [Stocker](https://github.com/salahineo/Stocker) | Photos Stock Website Landing Page | [Demo](https://salahineo.github.io/Stocker/) | Front-End |
+| 6 | [Advanced Resume](https://github.com/salahineo/Advanced-Resume) | Advanced Resume Web Design | [Demo](https://salahineo.github.io/Advanced-Resume/) | Front-End |
 
 > There is a Readme file for every project in its repository which explain every thing about this project
 
