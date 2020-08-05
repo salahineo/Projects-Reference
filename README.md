@@ -27,7 +27,7 @@ Since i learned a lot of technologies and applied a number of projects with thes
 
 My projects ordered from oldest to newest [updated]
 
-| # | Repository | Description | Demo | Category |
+| # | Repository | Description | Demo | Focus On |
 | --- | --- | --- | --- | --- |
 | 1 | [Simple Resume](https://github.com/salahineo/Resume) | Simple Resume Web Design | [Demo](https://salahineo.github.io/Resume/) | Front-End |
 | 2 | [Travello](https://github.com/salahineo/Travello) | Travelling Website Landing Page | [Demo](https://salahineo.github.io/Travello/) | Front-End |
@@ -35,6 +35,7 @@ My projects ordered from oldest to newest [updated]
 | 4 | [DevPoint](https://github.com/salahineo/DevPoint) | Development Company Website Landing Page | [Demo](https://salahineo.github.io/DevPoint/) | Front-End |
 | 5 | [Stocker](https://github.com/salahineo/Stocker) | Photos Stock Website Landing Page | [Demo](https://salahineo.github.io/Stocker/) | Front-End |
 | 6 | [Advanced Resume](https://github.com/salahineo/Advanced-Resume) | Advanced Resume Web Design | [Demo](https://salahineo.github.io/Advanced-Resume/) | Front-End |
+| 7 | [Contact Form](https://github.com/salahineo/Contact-Form) | Full Functionality Contact Form | [Demo](https://github.com/salahineo/Contact-Form#demo) | Back-End |
 
 > There is a Readme file for every project in its repository which explain every thing about this project
 
@@ -42,7 +43,7 @@ My projects ordered from oldest to newest [updated]
 
 Tasks of specific design or functionality [updated]
 
-| # | Repository | Description | Demo | Category |
+| # | Repository | Description | Demo | Focus On |
 | --- | --- | --- | --- | --- |
 | 1 | [Dynamic Nav](https://github.com/salahineo/Dynamic-Navigation-Menu) | Make dynamic navigation menu | [Demo](https://salahineo.github.io/Dynamic-Navigation-Menu/) | Front-End |
 
