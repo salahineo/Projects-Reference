@@ -36,6 +36,7 @@ My projects ordered from oldest to newest [updated]
 | 5 | [Stocker](https://github.com/salahineo/Stocker) | Photos Stock Website Landing Page | [Demo](https://salahineo.github.io/Stocker/) | Front-End |
 | 6 | [Advanced Resume](https://github.com/salahineo/Advanced-Resume) | Advanced Resume Web Design | [Demo](https://salahineo.github.io/Advanced-Resume/) | Front-End |
 | 7 | [Contact Form](https://github.com/salahineo/Contact-Form) | Full Functionality Contact Form | [Demo](https://github.com/salahineo/Contact-Form#demo) | Back-End |
+| 8 | [Personal Website](https://github.com/salahineo/Personal) | My Personal Website | [Demo](https://salahineo.github.io/Personal/) | Front-End |
 
 > There is a Readme file for every project in its repository which explain every thing about this project
 
@@ -51,10 +52,11 @@ Tasks of specific design or functionality [updated]
 
 ### Contact
 
-- [Github](https://github.com/salahineo/)
-- [Twitter](https://twitter.com/salahineo/)
-- [Facebook](https://www.facebook.com/salahineo/)
-- [LinkedIn](https://www.linkedin.com/in/salahineo/)
-- [Send Mail](mailto:eng.mohamedsalah.it@gmail.com)
+- [Facebook](https://facebook.com/salahineo) 😎
+- [Twitter](https://twitter.com/salahineo) 🐤
+- [Github](https://github.com/salahineo) :octocat:
+- [LinkedIn](https://linkedin.com/in/salahineo) 💼
+- [Website](https://salahineo.github.io/Personal/) :globe_with_meridians:
+- <a href="mailto:eng.mohamedsalah.it@gmail.com">Email</a> :love_letter:
 
 ---
