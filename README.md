@@ -71,6 +71,4 @@ Simple web page front-end components [updated]
 
 **If You Find My Work Good, Consider Giving it a :star: or Fork-ing to Show Some :heart:. It Helps Me Stay on Track and Be Motivated.**
 
-> **Explore all of my projects from [Here](https://github.com/salahineo/Projects-Reference)**
-
 ---
