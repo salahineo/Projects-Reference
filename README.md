@@ -50,17 +50,18 @@ Simple applications with specific functionality [updated]
 Simple web page front-end components [updated]
 
 | # | Component | Description | Source |
-| --- | --- | --- | --- |
-| 1 | 3D Flip Card | Responsive card with front and back interfaces | [Code](https://github.com/salahineo/Web-Components/tree/main/3D%20Flip%20Card) |
-| 2 | Accordion | Accordion tabs to toggle hidden content | [Code](https://github.com/salahineo/Web-Components/tree/main/Accordion) |
+|---| --- | --- | --- |
+| 1 | Basic Accordion | Basic accordion tabs to toggle hidden content | [Code](https://github.com/salahineo/front-end-componenets/blob/main/Basic%20Accordion/index.html) |
+| 2 | 3D Flip Card | Responsive card with front and back interfaces | [Code](https://github.com/salahineo/front-end-componenets/blob/main/3D%20Flip%20Card/index.html) |
 
 ### Contact
 
 - [Github](https://github.com/salahineo) :octocat:
 - [LinkedIn](https://linkedin.com/in/salahineo) 💼
-- [Website](https://salahineo.github.io/salahineo/) :globe_with_meridians:
 - [Facebook](https://facebook.com/salahineo) 😎
 - [Twitter](https://twitter.com/salahineo) 🐤
+- [Behance](https://www.behance.net/salahineo) :art:
+- [Website](https://salahineo.github.io/salahineo/) :globe_with_meridians:
 - <a href="mailto:salahineo.work@gmail.com">Email</a> :email:
 
 ### Copyright and license
@@ -70,6 +71,6 @@ Simple web page front-end components [updated]
 
 ---
 
-**If You Find My Work Good, Consider Giving it a :star: or Fork-ing to Show Some :heart:. It Helps Me Stay on Track and Be Motivated.**
+**If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
 
 ---
