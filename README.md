@@ -1,11 +1,5 @@
 <h1 align="center">Projects Reference</h1>
 
-<p align="center">
-  <a href="https://github.com/salahineo/">
-    <img src="https://img.shields.io/badge/Author-Mohamed%20Salah-red" alt="Author">
-  </a>
-</p>
-
 ## Table of contents
 
 - [Description](#description)
@@ -26,7 +20,7 @@ Since I learned a lot of technologies and applied a number of projects with thes
 
 Front-End projects ordered from oldest to newest [updated]
 
-| # | Repository | Description |
+| # | Project | Description |
 | --- | --- | --- |
 | 1 | [Resume](https://github.com/salahineo/Resume) | Simple Resume Web Design |
 | 2 | [Travello](https://github.com/salahineo/Travello) | Travelling Website Home Page |
@@ -40,15 +34,15 @@ Front-End projects ordered from oldest to newest [updated]
 
 Full-Stack projects ordered from oldest to newest [updated]
 
-| # | Repository | Description |
+| # | Project | Description |
 | --- | --- | --- |
-| 1 | [PDF Books Download Website](https://github.com/salahineo/pdf-books) | Arabic PDF Books Download Website |
+| 1 | [PDF Books](https://github.com/salahineo/pdf-books) | Arabic PDF Books Download Website |
 
 ### Applications
 
 Simple applications with specific functionality [updated]
 
-| # | Repository | Description |
+| # | Application | Description |
 | --- | --- | --- |
 | 1 | [Fetch Repos](https://github.com/salahineo/Fetch-Repos) | Fetch Github Repositories |
 | 2 | [Multi Choices Quiz](https://github.com/salahineo/Multi-Choices-Quiz) | Multi Choices Quiz |
