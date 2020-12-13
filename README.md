@@ -26,22 +26,22 @@ Since I learned a lot of technologies and applied a number of projects with thes
 
 Front-End projects ordered from oldest to newest [updated]
 
-| # | Repository | Description | Demo |
-| --- | --- | --- | --- |
-| 1 | [Resume](https://github.com/salahineo/Resume) | Simple Resume Web Design | [Demo](https://salahineo.github.io/Resume/) |
-| 2 | [Travello](https://github.com/salahineo/Travello) | Travelling Website Home Page | [Demo](https://salahineo.github.io/Travello/) |
-| 3 | [DevPoint](https://github.com/salahineo/DevPoint) | Development Company Landing Page | [Demo](https://salahineo.github.io/DevPoint/) |
-| 4 | [Stocker](https://github.com/salahineo/Stocker) | Photos & Videos Stock Landing Page | [Demo](https://salahineo.github.io/Stocker/) |
-| 5 | [Advanced Resume](https://github.com/salahineo/Advanced-Resume) | Advanced Resume Web Design | [Demo](https://salahineo.github.io/Advanced-Resume/) |
-| 6 | [Stuart School](https://github.com/salahineo/Stuart-School) | Kids School Website | [Demo](https://salahineo.github.io/Stuart-School/) |
-| 7 | [Royal Gaming](https://github.com/salahineo/Royal-Gaming) | Gaming Reviews Website | [Demo](https://salahineo.github.io/Royal-Gaming/) |
+| # | Repository | Description |
+| --- | --- | --- |
+| 1 | [Resume](https://github.com/salahineo/Resume) | Simple Resume Web Design |
+| 2 | [Travello](https://github.com/salahineo/Travello) | Travelling Website Home Page |
+| 3 | [DevPoint](https://github.com/salahineo/DevPoint) | Development Company Landing Page |
+| 4 | [Stocker](https://github.com/salahineo/Stocker) | Photos & Videos Stock Landing Page |
+| 5 | [Advanced Resume](https://github.com/salahineo/Advanced-Resume) | Advanced Resume Web Design |
+| 6 | [Stuart School](https://github.com/salahineo/Stuart-School) | Kids School Website |
+| 7 | [Royal Gaming](https://github.com/salahineo/Royal-Gaming) | Gaming Reviews Website |
 
 ### Full-Stack Projects
 
 Full-Stack projects ordered from oldest to newest [updated]
 
 | # | Repository | Description |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 1 | [PDF Books Download Website](https://github.com/salahineo/pdf-books) | Arabic PDF Books Download Website |
 
 ### Applications
