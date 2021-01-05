@@ -37,6 +37,7 @@ Full-Stack projects ordered from oldest to newest [updated]
 | # | Project | Description |
 | --- | --- | --- |
 | 1 | [PDF Books](https://github.com/salahineo/pdf-books) | Arabic PDF Books Download Website |
+| 2 | [Personal Blog](https://github.com/salahineo/personal-blog) | Arabic Personal Blog Website |
 
 ### Applications
 
