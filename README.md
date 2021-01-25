@@ -48,7 +48,8 @@ Simple applications with specific functionality [updated]
 | 1 | [Fetch Repos](https://github.com/salahineo/Fetch-Repos) | Fetch Github Repositories |
 | 2 | [Multi Choices Quiz](https://github.com/salahineo/Multi-Choices-Quiz) | Multi Choices Quiz |
 | 3 | [Contact Form](https://github.com/salahineo/contact-form) | Full Functionality PHP Contact Form |
-| 4 | [PHP CRUD](https://github.com/salahineo/php-oop-crud) | PHP OOP CRUD Application |
+| 4 | [MVC CRUD](https://github.com/salahineo/php-oop-crud) | CRUD Application Implemented In MVC Structure |
+| 5 | [Bookmarks Manager](https://github.com/salahineo/php-oop-crud) | Bookmarks Manager With Some Useful Links For Web Developers & Designers |
 
 ### Components
 
