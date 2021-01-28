@@ -12,9 +12,9 @@
 
 ### Description
 
-Since I learned a lot of technologies and applied a number of projects with these technologies, I realized that it is confusing to explore my projects on github, so I decided to make this reference markdown file which I can introduce my projects in an ordered way that enable you to explore my projects and track my progress easily.
+Since I learned a lot of technologies and applied a number of projects with these technologies, I realized that it is confusing to explore my projects on github, so I decided to make this reference markdown file where I can introduce my projects in an ordered way that enable you to explore them and track my progress easily.
 
-> There is a Readme file for every project or application in its repository which explain every thing about it
+> There is a `README.md` file for every project or application in its repository which explain every thing about it
 
 ### Front-End Projects
 
@@ -25,7 +25,7 @@ Front-End projects ordered from oldest to newest [updated]
 | 1 | [Resume](https://github.com/salahineo/Resume) | Simple Resume Web Design |
 | 2 | [Travello](https://github.com/salahineo/Travello) | Travelling Website Home Page |
 | 3 | [DevPoint](https://github.com/salahineo/DevPoint) | Development Company Landing Page |
-| 4 | [Stocker](https://github.com/salahineo/Stocker) | Photos & Videos Stock Landing Page |
+| 4 | [Stocker](https://github.com/salahineo/Stocker) | Photos & Videos Stock Website Home Page |
 | 5 | [Advanced Resume](https://github.com/salahineo/Advanced-Resume) | Advanced Resume Web Design |
 | 6 | [Stuart School](https://github.com/salahineo/Stuart-School) | Kids School Website |
 | 7 | [Royal Gaming](https://github.com/salahineo/Royal-Gaming) | Gaming Reviews Website |
@@ -41,24 +41,15 @@ Full-Stack projects ordered from oldest to newest [updated]
 
 ### Applications
 
-Simple applications with specific functionality [updated]
+Simple applications ordered from oldest to newest [updated]
 
 | # | Application | Description |
 | --- | --- | --- |
 | 1 | [Fetch Repos](https://github.com/salahineo/Fetch-Repos) | Fetch Github Repositories |
 | 2 | [Multi Choices Quiz](https://github.com/salahineo/Multi-Choices-Quiz) | Multi Choices Quiz |
 | 3 | [Contact Form](https://github.com/salahineo/contact-form) | Full Functionality PHP Contact Form |
-| 4 | [MVC CRUD](https://github.com/salahineo/php-oop-crud) | CRUD Application Implemented In MVC Structure |
-| 5 | [Bookmarks Manager](https://github.com/salahineo/php-oop-crud) | Bookmarks Manager With Some Useful Links For Web Developers & Designers |
-
-### Components
-
-Simple web page front-end components [updated]
-
-| # | Component | Description |
-|---| --- | --- |
-| 1 | [Basic Accordion](https://github.com/salahineo/front-end-componenets/blob/main/Basic%20Accordion) | Basic accordion tabs to toggle hidden content |
-| 2 | [3D Flip Card](https://github.com/salahineo/front-end-componenets/tree/main/3D%20Flip%20Card) | Responsive card with front and back interfaces |
+| 4 | [MVC CRUD](https://github.com/salahineo/mvc-crud) | CRUD Application Implemented In MVC Structure |
+| 5 | [Bookmarks Manager](https://github.com/salahineo/resources) | Bookmarks Manager With Useful Links For Web Developers & Designers |
 
 ### Contact
 
@@ -72,7 +63,7 @@ Simple web page front-end components [updated]
 ### Copyright and license
 
 - **[GPLv3](https://www.gnu.org/licenses/gpl-3.0)**
-- **© 2020 | Mohamed Salah**
+- **© 2021 | Mohamed Salah**
 
 ---
 
