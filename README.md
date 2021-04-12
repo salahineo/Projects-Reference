@@ -50,6 +50,7 @@ Simple applications ordered from oldest to newest [updated]
 | 3 | [Contact Form](https://github.com/salahineo/contact-form) | Full Functionality PHP Contact Form |
 | 4 | [Bookmarks Manager](https://github.com/salahineo/resources) | Bookmarks Manager With Useful Links For Web Developers & Designers |
 | 5 | [To-Do List](https://github.com/salahineo/todo-list) | Multi-Functionality To-Do Tasks List |
+| 6 | [Weather Application](https://github.com/salahineo/react-weather-app) | ReactJS Weather Application |
 
 ### Contact
 
