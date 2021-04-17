@@ -12,7 +12,7 @@
 
 ### Description
 
-Since I learned a lot of technologies and applied a number of projects with these technologies, I realized that it is confusing to explore my projects on github, so I decided to make this reference markdown file where I can introduce my projects in an ordered way that enable you to explore them and track my progress easily.
+Since I learned a lot of technologies and applied several projects with these technologies, I realized that it is confusing to explore my projects on github, so I decided to make this reference markdown file where I can introduce my projects in an ordered way that enable you to explore them and track my progress easily.
 
 > There is a `README.md` file for every project or application in its repository which explain every thing about it
 
