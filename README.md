@@ -29,6 +29,7 @@ Front-End projects ordered from oldest to newest [updated]
 | 5 | [Advanced Resume](https://github.com/salahineo/Advanced-Resume) | Advanced Resume Web Design |
 | 6 | [Stuart School](https://github.com/salahineo/Stuart-School) | Kids School Website |
 | 7 | [Royal Gaming](https://github.com/salahineo/Royal-Gaming) | Gaming Reviews Website |
+| 8 | [Safari](https://github.com/salahineo/safari) | Safari Travels Website |
 
 ### Full-Stack Projects
 
