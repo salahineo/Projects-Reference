@@ -66,8 +66,8 @@ Simple applications ordered from oldest to newest [updated]
 
 ### Copyright and license
 
-- **[GPLv3](https://www.gnu.org/licenses/gpl-3.0)**
-- **© 2021 | Mohamed Salah**
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![License: GPL v3](https://img.shields.io/badge/%C2%A9_2021-Mohamed%20Salah-065AAA)
 
 ---
 
