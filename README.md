@@ -3,10 +3,9 @@
 ## Table of contents
 
 - [Description](#description)
-- [Front-End Projects](#front-end-projects)
+- [Frontend Projects](#frontend-projects)
 - [Full-Stack Projects](#full-stack-projects)
-- [Applications](#applications)
-- [Components](#components)
+- [Web Applications](#web-applications)
 - [Contact](#contact)
 - [Copyright and license](#copyright-and-license)
 
@@ -16,9 +15,9 @@ Since I learned a lot of technologies and applied several projects with these te
 
 > There is a `README.md` file for every project or application in its repository which explain every thing about it
 
-### Front-End Projects
+### Frontend Projects
 
-Front-End projects ordered from oldest to newest [updated]
+Frontend projects ordered from oldest to newest [updated]
 
 | # | Project | Description |
 | --- | --- | --- |
@@ -40,9 +39,9 @@ Full-Stack projects ordered from oldest to newest [updated]
 | 1 | [PDF Books](https://github.com/salahineo/pdf-books) | Arabic PDF Books Download Website |
 | 2 | [Personal Blog](https://github.com/salahineo/personal-blog) | Arabic Personal Blog Website |
 
-### Applications
+### Web Applications
 
-Simple applications ordered from oldest to newest [updated]
+Simple web applications ordered from oldest to newest [updated]
 
 | # | Application | Description |
 | --- | --- | --- |
