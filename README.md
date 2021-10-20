@@ -11,7 +11,9 @@
 
 ### Description
 
-Since I learned a lot of technologies and applied several projects with these technologies, I realized that it is confusing to explore my projects on github, so I decided to make this reference markdown file where I can introduce my projects in an ordered way that enable you to explore them and track my progress easily.
+Since I learned a lot of technologies and applied several projects with these technologies, I realized that it is
+confusing to explore my projects on GitHub, so I decided to make this reference markdown file where I can introduce my
+projects in an ordered way that enable you to explore them and track my progress easily.
 
 > There is a `README.md` file for every project or application in its repository which explain every thing about it
 
@@ -54,6 +56,22 @@ Simple web applications ordered from oldest to newest [updated]
 | 7 | [Reminder](https://github.com/salahineo/reminder) | Tasks Reminder Application |
 | 8 | [Smart Notes](https://github.com/salahineo/smart-notes) | Smart Note Taking Application |
 
+### Open-Source Projects
+
+Open-Source projects to help other developers for various purposes from oldest to newest [updated]
+
+| # | Project | Description |
+| --- | --- | --- |
+| 1 | [Markdown Parser](https://github.com/salahineo/markdown-parser) | Parse Markdown & Export It To HTML |
+
+### Contribution Projects
+
+Projects which I contributed in it from oldest to newest [updated]
+
+| # | Project | Description |
+| --- | --- | --- |
+| 1 | [ActivityWatch Web-UI](https://github.com/salahineo/aw-webui) | Create The Dark Theme Switcher | 
+
 ### Contact
 
 <a href="https://github.com/salahineo"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff"/></a>
@@ -70,5 +88,6 @@ Simple web applications ordered from oldest to newest [updated]
 
 ---
 
-**If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
+**If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and
+be motivated.**
 
