@@ -1,11 +1,13 @@
 <h1 align="center">Projects Reference</h1>
 
-## Table of contents
+## Table Of Contents
 
 - [Description](#description)
 - [Frontend Projects](#frontend-projects)
 - [Full-Stack Projects](#full-stack-projects)
 - [Web Applications](#web-applications)
+- [Open-Source Projects](#open-source-projects)
+- [Contribution Projects](#contribution-projects)
 - [Contact](#contact)
 - [Copyright and license](#copyright-and-license)
 
